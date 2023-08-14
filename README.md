@@ -30,7 +30,7 @@ The Trello Card Creator is a simple web application that allows users to input s
 
 ## Usage
 
-1. Navigate to the desired version's directory (either Python_Version or NodeJS_Version).
+1. Navigate to the desired version's directory (either Trello API - Python or Trello API - NodeJS).
 2. Once the application is running, access the web interface via your browser, fill in the form with the desired card details, and submit.
 3. A confirmation message will be displayed upon successful card creation or an error message otherwise.
 
