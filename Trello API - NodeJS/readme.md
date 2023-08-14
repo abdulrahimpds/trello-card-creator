@@ -5,4 +5,4 @@
 
 ## API Key and Token
 
-Put the API Key in the api.text and the token in token.txt
+Put the API Key in the api.txt and the token in token.txt
