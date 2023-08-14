@@ -4,7 +4,7 @@ This repository contains two distinct implementations of a Trello Card Creator: 
 
 ## Overview
 
-The Trello Card Creator is a simple web application that allows users to input specific details and, upon submission, a card is created in Trello with the provided information.
+This a simple web application that allows users to input specific details and, upon submission, a card is created in Trello with the provided information.
 
 ## Implementations
 
